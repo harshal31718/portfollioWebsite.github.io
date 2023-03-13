@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolioWebsite.github.io/static/css/main.fe2182b5.css",
+    "main.js": "/portfolioWebsite.github.io/static/js/main.f4bebfb6.js",
+    "static/js/787.27ca2965.chunk.js": "/portfolioWebsite.github.io/static/js/787.27ca2965.chunk.js",
+    "static/media/leaf.png": "/portfolioWebsite.github.io/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/portfolioWebsite.github.io/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/portfolioWebsite.github.io/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/portfolioWebsite.github.io/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/portfolioWebsite.github.io/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/portfolioWebsite.github.io/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/portfolioWebsite.github.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/portfolioWebsite.github.io/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/portfolioWebsite.github.io/static/media/Soumyajit_Behera-BIT_MESRA.bbcb2cb6b9e727b164f6.pdf",
+    "static/media/home-bg.jpg": "/portfolioWebsite.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/portfolioWebsite.github.io/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/portfolioWebsite.github.io/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolioWebsite.github.io/index.html",
+    "main.fe2182b5.css.map": "/portfolioWebsite.github.io/static/css/main.fe2182b5.css.map",
+    "main.f4bebfb6.js.map": "/portfolioWebsite.github.io/static/js/main.f4bebfb6.js.map",
+    "787.27ca2965.chunk.js.map": "/portfolioWebsite.github.io/static/js/787.27ca2965.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe2182b5.css",
+    "static/js/main.f4bebfb6.js"
+  ]
+}
